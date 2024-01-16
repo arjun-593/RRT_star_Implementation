@@ -1,7 +1,7 @@
 # RRT* Path Planning Algorithm
 
 ## Overview
-This repository contains a Python implementation of the RRT* (Rapidly-exploring Random Tree Star) algorithm for path planning in a 2D state space. The algorithm is designed to find a collision-free path from a start point to a goal point considering circular obstacles in the environment.
+This repository contains a Python implementation of the RRT* (Rapidly-exploring Random Tree Star) algorithm for path planning in a 2D state space on Ubuntu 20. The algorithm is designed to find a collision-free path from a start point to a goal point considering circular obstacles in the environment.
 
 ## Getting Started 
 1. Install Python 3:
