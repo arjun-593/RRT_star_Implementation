@@ -81,4 +81,4 @@ The output will be a plot showing the start point, goal point, obstacles, and th
 
   ## License
 
-  This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the MIT License - see the [LICENSE](https://github.com/arjun-593/RRT_star_Implementation/blob/main/LICENSE) file for details.
