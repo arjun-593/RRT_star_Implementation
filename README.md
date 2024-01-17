@@ -5,7 +5,7 @@ This repository contains a Python implementation of the RRT* (Rapidly-exploring 
 
 ## Getting Started 
 1. Install Python 3:
-Ubuntu 22.04 comes with Python 3 pre-installed, but you can ensure you have the latest version by running:
+Ubuntu 20.04 comes with Python 3 pre-installed, but you can ensure you have the latest version by running:
 
        sudo apt update
        sudo apt install python3
