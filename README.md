@@ -54,6 +54,8 @@ The output will be a plot showing the start point, goal point, obstacles, and th
 
 ## Example 
 
+### Input
+
     start_node = Node(0, 0)
     goal_node = Node(5, 5)
     x_range = (-1, 6)
@@ -78,6 +80,8 @@ The output will be a plot showing the start point, goal point, obstacles, and th
     plt.title('RRT* Algorithm')
     plt.show()
 
+### Output
+<img src="https://github.com/arjun-593/RRT_star_Implementation/blob/main/data/example_output.png" width="400" height="400" />
 
   ## License
 
