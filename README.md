@@ -33,7 +33,7 @@ Go into that workspace :
 Clone the repo :
 
     git clone <repository_url>
-    cd rrt-star-path-planning
+    cd RRT_star_Implementation
 Run the RRTstar.py node :
 
     python rrt_star.py
