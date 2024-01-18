@@ -32,7 +32,7 @@ Go into that workspace :
     cd RRTstar_ws
 Clone the repo :
 
-    git clone <repository_url>
+    git clone https://github.com/arjun-593/RRT_star_Implementation.git
     cd RRT_star_Implementation
 Run the RRTstar.py node :
 
