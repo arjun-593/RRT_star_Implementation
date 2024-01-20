@@ -43,10 +43,15 @@ Run the RRTstar.py node :
 Modify the following parameters in the rrt_star.py file:
 
 • start_node: Specify the starting point (x, y) coordinates.
+
 • goal_node: Specify the goal point (x, y) coordinates.
+
 • x_range: Specify the range of x-axis values.
+
 • y_range: Specify the range of y-axis values.
+
 • obstacles: Specify the circular obstacles in the environment by providing their (x, y) coordinates.
+
 • obstacle_radius: Specify the radius of the circular obstacles.
 
 ## Output 
