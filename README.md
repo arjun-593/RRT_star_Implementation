@@ -36,7 +36,7 @@ Clone the repo :
     cd RRT_star_Implementation
 Run the RRTstar.py node :
 
-    python rrt_star.py
+    python3 rrt_star.py
 
 
 ## Input
